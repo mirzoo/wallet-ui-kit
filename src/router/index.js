@@ -22,7 +22,6 @@ import { flattenRoutes, isSplitEligible } from "../pages/configHelpers"
 import CatalogPage from "../pages/CatalogPage"
 
 const routes = flattenRoutes(config)
-const CATALOG_TITLE = "UI Prototype"
 
 function Redirect({ to }) {
     const [, navigate] = useLocation()
@@ -46,7 +45,6 @@ const Routes = () => {
         <ErrorBoundary fallback={<RouteErrorFallback />} resetKeys={[location]}>
             <Switch location={location}>
                 <Route path="/">
-                    <AppBar title={CATALOG_TITLE} back={false} />
                     <CatalogPage />
                 </Route>
                 {routes.map(
@@ -110,7 +108,6 @@ function AppRoutes() {
             <Page mode="secondary" key={location} />
             <SplitView>
                 <SplitView.Sidebar>
-                    <AppBar title={CATALOG_TITLE} back={false} />
                     <CatalogList />
                 </SplitView.Sidebar>
                 <SplitView.Detail>

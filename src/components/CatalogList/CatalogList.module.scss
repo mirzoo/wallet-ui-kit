@@ -1,0 +1,67 @@
+.root {
+    background: var(--tg-theme-secondary-bg-color);
+}
+
+.toolbar {
+    padding: 12px var(--side-padding) 4px;
+}
+
+.search {
+    position: relative;
+    display: flex;
+    align-items: center;
+    border-radius: 16px;
+    background: var(--tg-theme-section-bg-color);
+    box-shadow:
+        0 1px 2px rgb(0 0 0 / 4%),
+        0 6px 24px rgb(0 0 0 / 4%);
+    color: var(--tg-theme-hint-color);
+
+    svg {
+        position: absolute;
+        left: 14px;
+        width: 17px;
+        height: 17px;
+        pointer-events: none;
+    }
+}
+
+.input {
+    width: 100%;
+    min-height: 44px;
+    padding: 0 14px 0 42px;
+    border: 0;
+    outline: 0;
+    border-radius: inherit;
+    background: transparent;
+    color: var(--tg-theme-text-color);
+    font: inherit;
+    user-select: text;
+
+    &::placeholder {
+        color: var(--tg-theme-hint-color);
+    }
+
+    &:focus-visible {
+        box-shadow: 0 0 0 3px var(--secondary-button-color);
+    }
+}
+
+.resultCount {
+    min-height: 24px;
+    padding: 7px 4px 0;
+    color: var(--tg-theme-hint-color);
+    font-size: 12px;
+    font-variant-numeric: tabular-nums;
+}
+
+.empty {
+    display: flex;
+    min-height: 240px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 32px;
+    color: var(--tg-theme-hint-color);
+    text-align: center;
+}

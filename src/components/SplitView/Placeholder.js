@@ -1,5 +1,5 @@
 import { useEffect } from "react"
-import Text from "../Text"
+import CatalogIntro from "../CatalogIntro"
 import { useSplitViewContext } from "./context"
 
 import * as styles from "./SplitView.module.scss"
@@ -16,9 +16,7 @@ const SplitViewPlaceholder = () => {
 
     return (
         <div className={styles.placeholder}>
-            <Text variant="body" weight="regular">
-                Select a component
-            </Text>
+            <CatalogIntro />
         </div>
     )
 }

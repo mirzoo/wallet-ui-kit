@@ -1,6 +1,6 @@
 {
-    "name": "UI Prototype",
-    "short_name": "UI Prototype",
+    "name": "Wallet UI Kit",
+    "short_name": "UI Kit",
     "start_url": "./",
     "scope": "./",
     "display": "standalone",
