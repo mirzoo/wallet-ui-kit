@@ -1552,12 +1552,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react-dom@npm:^19.2.4":
-  version: 19.2.4
-  resolution: "@types/react-dom@npm:19.2.4"
+"@types/react-dom@npm:^19.2.5":
+  version: 19.2.5
+  resolution: "@types/react-dom@npm:19.2.5"
   peerDependencies:
     "@types/react": ^19.2.0
-  checksum: 10c0/b7d854ce17bb51a3a067168268a90f0123d10dc490f63f1ff5409f07ac715febeb8f5b7b473404a9d437106571e0312fc2937a945634d590abfc9aa46a14b01b
+  checksum: 10c0/7a59467b043debf392d109daa1ba672e791f20ce6f24ae81fb54715f890f8119d24967e61e3644b6307428603b695b7d59e69eaf531bd1963a74a6cb462f5f49
   languageName: node
   linkType: hard
 
@@ -1825,12 +1825,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"baseline-browser-mapping@npm:^2.11.18":
-  version: 2.11.19
-  resolution: "baseline-browser-mapping@npm:2.11.19"
+"baseline-browser-mapping@npm:^2.11.20":
+  version: 2.11.20
+  resolution: "baseline-browser-mapping@npm:2.11.20"
   bin:
     baseline-browser-mapping: dist/cli.cjs
-  checksum: 10c0/827e60717e1652d80471cc69e61c85966b7934cde4aab94f9eb21b9b8f864f094a810717c569fdec5b372fc4c9b7bbf99c27c5ceddb3a57313238fc6be355d93
+  checksum: 10c0/67588b7edafa4e6c52996ec4b96b6e007312961cefc5a179cb49232f6681a38ba68d4d43990081e9d0e1dcadcbd28f13105ee7dc3e43b267385d0beb14824ecc
   languageName: node
   linkType: hard
 
@@ -4964,9 +4964,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"satori@npm:^0.33.3":
-  version: 0.33.3
-  resolution: "satori@npm:0.33.3"
+"satori@npm:^0.33.4":
+  version: 0.33.4
+  resolution: "satori@npm:0.33.4"
   dependencies:
     "@shuding/opentype.js": "npm:1.4.0-beta.0"
     css-background-parser: "npm:^0.1.0"
@@ -4981,7 +4981,7 @@ __metadata:
     parse-css-color: "npm:^0.2.1"
     postcss-value-parser: "npm:^4.2.0"
     yoga-layout: "npm:^3.2.1"
-  checksum: 10c0/21eac755431de9b09718851bd8101c53a811186c79be3f382587c221cc38faca6a1feb6bb6f4a7b5f4fb878a80905c40680f62fd50a17afb562d6d7e4727a969
+  checksum: 10c0/7d6038cbe88f973efc43dabd7ac1abe284cd20552382b60c6a8b11b4b1a128f55b8dd340368de425ed3f6f1c090ec6778aece975aeb5d0276c0e9795224a9fc4
   languageName: node
   linkType: hard
 
@@ -5836,12 +5836,12 @@ __metadata:
     "@resvg/resvg-js": "npm:^2.6.2"
     "@tanstack/react-virtual": "npm:^3.14.10"
     "@types/react": "npm:^19.2.18"
-    "@types/react-dom": "npm:^19.2.4"
+    "@types/react-dom": "npm:^19.2.5"
     "@vitejs/plugin-react": "npm:5"
     agentation: "npm:^3.0.2"
     babel-plugin-react-compiler: "npm:^1.0.0"
     babel-plugin-transform-react-remove-prop-types: "npm:^0.4.24"
-    baseline-browser-mapping: "npm:^2.11.18"
+    baseline-browser-mapping: "npm:^2.11.20"
     calligraph: "npm:^1.4.1"
     colorthief: "npm:^3.5.0"
     eslint: "npm:^9"
@@ -5858,7 +5858,7 @@ __metadata:
     react-dom: "npm:^19.2.8"
     rollup-plugin-webpack-stats: "npm:^3.1.3"
     sass: "npm:^1.103.1"
-    satori: "npm:^0.33.3"
+    satori: "npm:^0.33.4"
     stylelint: "npm:^17.14.1"
     stylelint-config-standard-scss: "npm:^17.0.0"
     typescript: "npm:^6.0.3"
