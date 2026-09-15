@@ -11,14 +11,14 @@
   "dependencies": {
     "@lisse/core": "0.7.2",
     "@lisse/react": "^0.7.2",
-    "@tanstack/react-virtual": "^3.14.10",
+    "@tanstack/react-virtual": "^3.14.12",
     "calligraph": "^1.4.1",
     "colorthief": "^3.5.0",
     "lottie-react": "^2.4.2",
     "markdown-to-jsx": "9",
     "motion": "^12.43.0",
-    "react": "^19.2.8",
-    "react-dom": "^19.2.8",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
     "wouter": "^3.11.0"
   },
   "scripts": {
@@ -59,8 +59,8 @@
     "@eslint/js": "^10.0.1",
     "@relative-ci/agent": "^4.3.1",
     "@resvg/resvg-js": "^2.6.2",
-    "@types/react": "^19.2.18",
-    "@types/react-dom": "^19.2.7",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
     "@vitejs/plugin-react": "5",
     "agentation": "^3.0.2",
     "babel-plugin-react-compiler": "^1.0.0",
