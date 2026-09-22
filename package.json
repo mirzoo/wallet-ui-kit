@@ -11,7 +11,7 @@
   "dependencies": {
     "@lisse/core": "0.7.2",
     "@lisse/react": "^0.7.2",
-    "@tanstack/react-virtual": "^3.14.12",
+    "@tanstack/react-virtual": "^3.14.13",
     "calligraph": "^1.4.1",
     "colorthief": "^3.5.0",
     "lottie-react": "^2.4.2",
