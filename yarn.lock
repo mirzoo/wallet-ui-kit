@@ -1825,12 +1825,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"baseline-browser-mapping@npm:^2.11.23":
-  version: 2.11.24
-  resolution: "baseline-browser-mapping@npm:2.11.24"
+"baseline-browser-mapping@npm:^2.11.25":
+  version: 2.11.25
+  resolution: "baseline-browser-mapping@npm:2.11.25"
   bin:
     baseline-browser-mapping: dist/cli.cjs
-  checksum: 10c0/f6895b675e0e653dc62c9885c6d13b16d19ccb8bc83806e82258ed2759ee13c2b7221e8953dac231b43ee9bc3cc1810e0dc4c3b784d7e0d827cd0a2c39fcd820
+  checksum: 10c0/d725a78420b3c8b0bf401d2c724ff662e7e1b67a123b17bb4417bbd6f6f00d8245bdbda862edbca84ed65618aa80a184fec83ad5d6f7c4031cced4b8ab2e7f11
   languageName: node
   linkType: hard
 
@@ -4583,12 +4583,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier@npm:^3.9.6":
-  version: 3.9.6
-  resolution: "prettier@npm:3.9.6"
+"prettier@npm:^3.9.8":
+  version: 3.9.8
+  resolution: "prettier@npm:3.9.8"
   bin:
     prettier: bin/prettier.cjs
-  checksum: 10c0/9f7ddae234035868f3daab3dc34e6de7e54622185afb017378029f0c09a9c023248ccf6f34def0b17a0538e18c47aa1b3188bab72965d1bf735919baa0747e99
+  checksum: 10c0/257e5ef11ba5006d0b0712271705701c065c8003e07763f996ce185d39633902f3fe1f814839eed76f75c97b6d5376d6157bd9f44db18cacb1dbdcb263cc66ae
   languageName: node
   linkType: hard
 
@@ -5852,7 +5852,7 @@ __metadata:
     agentation: "npm:^3.0.2"
     babel-plugin-react-compiler: "npm:^1.0.0"
     babel-plugin-transform-react-remove-prop-types: "npm:^0.4.24"
-    baseline-browser-mapping: "npm:^2.11.23"
+    baseline-browser-mapping: "npm:^2.11.25"
     calligraph: "npm:^1.4.1"
     colorthief: "npm:^3.5.0"
     eslint: "npm:^9"
@@ -5863,7 +5863,7 @@ __metadata:
     lottie-react: "npm:^2.4.2"
     markdown-to-jsx: "npm:9"
     motion: "npm:^12.43.0"
-    prettier: "npm:^3.9.6"
+    prettier: "npm:^3.9.8"
     prop-types: "npm:^15.8.1"
     react: "npm:^19.3.0"
     react-dom: "npm:^19.3.0"
