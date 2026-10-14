@@ -1825,12 +1825,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"baseline-browser-mapping@npm:^2.11.27":
-  version: 2.11.27
-  resolution: "baseline-browser-mapping@npm:2.11.27"
+"baseline-browser-mapping@npm:^2.11.28":
+  version: 2.11.28
+  resolution: "baseline-browser-mapping@npm:2.11.28"
   bin:
     baseline-browser-mapping: dist/cli.cjs
-  checksum: 10c0/4a06cfab5ad4f57633c0092340af41388f3fc71e6a91a3309942a23c60b65e9ec6f243edbd2f484d3d0ee40f5f33d974c8a85c9c207e104ea17ba429cfb4d3df
+  checksum: 10c0/769e7a09a43babb7436f6c78c45323580f7fdf8c846ef97b93895f31a95adc1898168415e3a7ff1091610d74b96a826aceddaa4ed7f2bfe95caa453bbb331e60
   languageName: node
   linkType: hard
 
@@ -4583,12 +4583,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier@npm:^3.9.9":
-  version: 3.9.9
-  resolution: "prettier@npm:3.9.9"
+"prettier@npm:^3.9.10":
+  version: 3.9.10
+  resolution: "prettier@npm:3.9.10"
   bin:
     prettier: bin/prettier.cjs
-  checksum: 10c0/d50ea2537b2ff7dbd5088a214f4d936484e55c665cea2185b477a55b0770be55f3b156a71f63a9a639def6b334667bb327139dc85f2a1041c0a34752cdc74647
+  checksum: 10c0/0b3531593aa6fb36ac6baf629cb058bda472c59a6938774f931fe55283a07c62e6f56e621b043a82d8a3e21fc284c08c34f9e539fc70072635f79b7bae1a1067
   languageName: node
   linkType: hard
 
@@ -4975,9 +4975,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"satori@npm:^0.35.0":
-  version: 0.35.0
-  resolution: "satori@npm:0.35.0"
+"satori@npm:^0.47.1":
+  version: 0.47.1
+  resolution: "satori@npm:0.47.1"
   dependencies:
     "@shuding/opentype.js": "npm:1.4.0-beta.0"
     css-background-parser: "npm:^0.1.0"
@@ -4991,8 +4991,7 @@ __metadata:
     linebreak: "npm:^1.1.0"
     parse-css-color: "npm:^0.2.1"
     postcss-value-parser: "npm:^4.2.0"
-    yoga-layout: "npm:^3.2.1"
-  checksum: 10c0/7bece31ff86a5f372ffb01fad650db22bceea6556acd016ff0b8cbc56953a0ec443c4dd4f68d1234bcad3d9f54104632bf87bbf9630dcb7a5d9b50b4d5930aa9
+  checksum: 10c0/42c09ca2fec2ad60139cac70ae49d0399d0ab1f1b97d9b17f50a3010027f17ae9130622e081ad175b1ade8369c849c4183920623e213841823fc1a8962e0ec1c
   languageName: node
   linkType: hard
 
@@ -5780,8 +5779,8 @@ __metadata:
   linkType: hard
 
 "vite@npm:7":
-  version: 7.3.6
-  resolution: "vite@npm:7.3.6"
+  version: 7.3.7
+  resolution: "vite@npm:7.3.7"
   dependencies:
     esbuild: "npm:^0.27.0 || ^0.28.0"
     fdir: "npm:^6.5.0"
@@ -5830,7 +5829,7 @@ __metadata:
       optional: true
   bin:
     vite: bin/vite.js
-  checksum: 10c0/c6d359f84ad362f5c97ff7988b77c90add04162c60cdf6059375a7d9e3217848c53a8cb6b6c48517bef84b6bba4c9bc85319a889b5236acb7d5a2bc8cb7b9a8d
+  checksum: 10c0/6a3f868a33b849383e29c4e39550155563cf0522b5b6504ab60ff5e44dd07ad472ff87a4d5d2c08f1f70cc6602357f95c38d27371b7612d84801cb790f325a7e
   languageName: node
   linkType: hard
 
@@ -5852,7 +5851,7 @@ __metadata:
     agentation: "npm:^3.1.2"
     babel-plugin-react-compiler: "npm:^1.0.0"
     babel-plugin-transform-react-remove-prop-types: "npm:^0.4.24"
-    baseline-browser-mapping: "npm:^2.11.27"
+    baseline-browser-mapping: "npm:^2.11.28"
     calligraph: "npm:^1.4.1"
     colorthief: "npm:^3.5.0"
     eslint: "npm:^9"
@@ -5863,13 +5862,13 @@ __metadata:
     lottie-react: "npm:^2.4.2"
     markdown-to-jsx: "npm:9"
     motion: "npm:^12.43.0"
-    prettier: "npm:^3.9.9"
+    prettier: "npm:^3.9.10"
     prop-types: "npm:^15.8.1"
     react: "npm:^19.3.0"
     react-dom: "npm:^19.3.0"
     rollup-plugin-webpack-stats: "npm:^3.1.3"
     sass: "npm:^1.105.1"
-    satori: "npm:^0.35.0"
+    satori: "npm:^0.47.1"
     stylelint: "npm:^17.16.0"
     stylelint-config-standard-scss: "npm:^17.0.0"
     typescript: "npm:^6.0.3"
@@ -6077,13 +6076,6 @@ __metadata:
   version: 0.1.0
   resolution: "yocto-queue@npm:0.1.0"
   checksum: 10c0/dceb44c28578b31641e13695d200d34ec4ab3966a5729814d5445b194933c096b7ced71494ce53a0e8820685d1d010df8b2422e5bf2cdea7e469d97ffbea306f
-  languageName: node
-  linkType: hard
-
-"yoga-layout@npm:^3.2.1":
-  version: 3.2.1
-  resolution: "yoga-layout@npm:3.2.1"
-  checksum: 10c0/9001e51be993c85e03757e5a04a2b61b8b30c9e5a7865d0156ca87a6431a3b717d51eb4990bfe588189fcfeac688dd9c3de707bbd50d1c344a84e63974cc54a8
   languageName: node
   linkType: hard
 
