@@ -1593,22 +1593,22 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tanstack/react-virtual@npm:^3.14.24":
-  version: 3.14.24
-  resolution: "@tanstack/react-virtual@npm:3.14.24"
+"@tanstack/react-virtual@npm:^3.14.26":
+  version: 3.14.26
+  resolution: "@tanstack/react-virtual@npm:3.14.26"
   dependencies:
-    "@tanstack/virtual-core": "npm:3.19.9"
+    "@tanstack/virtual-core": "npm:3.19.11"
   peerDependencies:
     react: ^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0
     react-dom: ^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0
-  checksum: 10c0/eabb2eb43ff60ea365bebac3c85011c51ca15829382391cc5bb809c577760743360acd8826478bd671f1f70be8347e29251e658abe55c55497354044811dd618
+  checksum: 10c0/71291177ac4c4b067a40351d46c69af0d5fc9dfcc6cb328cb87717b29209501a7193e92e75e599273ee423fff6c55c88157bd238684846b0d926dfa73b5d6dac
   languageName: node
   linkType: hard
 
-"@tanstack/virtual-core@npm:3.19.9":
-  version: 3.19.9
-  resolution: "@tanstack/virtual-core@npm:3.19.9"
-  checksum: 10c0/874183b370f4d0ba072b9ea2716680bd523e569f6aac92e877f195a53ac7bf68b1198a8704a7fc7d3b6d5299694b2ff37e49c33b5b7a88ef75c1a18d3b31dc9b
+"@tanstack/virtual-core@npm:3.19.11":
+  version: 3.19.11
+  resolution: "@tanstack/virtual-core@npm:3.19.11"
+  checksum: 10c0/61558882fd09f64020104ecd94bacaa2a6ccbb0745247610ede7683d709cf8d134cc3f6d1ee2d22203cb881e531bc4a3bb92e4657c08edf923ab6d5c39a958ec
   languageName: node
   linkType: hard
 
@@ -4105,8 +4105,8 @@ __metadata:
   linkType: hard
 
 "markdown-to-jsx@npm:9":
-  version: 9.10.4
-  resolution: "markdown-to-jsx@npm:9.10.4"
+  version: 9.10.6
+  resolution: "markdown-to-jsx@npm:9.10.6"
   peerDependencies:
     react: ">= 16.0.0"
     solid-js: ">=1.0.0"
@@ -4120,7 +4120,7 @@ __metadata:
       optional: true
     vue:
       optional: true
-  checksum: 10c0/2d7465b4764415d349d6057e56c679b61cd54dbf78747f6f5ab47654a8d13f81a423f63de7e11e1582a3c5bd826ff750f3c9a0f44f08ed0958a0483fd8aecf2d
+  checksum: 10c0/a67b12068baa1aa9aa23319100cf954856a768436f59ec22b6b632928a87644ed0a9fcdd9860c75b9f29c2fa43a3b70679eff0b48dc6c321923df9163be5bb8c
   languageName: node
   linkType: hard
 
@@ -5959,7 +5959,7 @@ __metadata:
     "@lisse/react": "npm:^0.7.3"
     "@relative-ci/agent": "npm:^4.3.1"
     "@resvg/resvg-js": "npm:^2.6.2"
-    "@tanstack/react-virtual": "npm:^3.14.24"
+    "@tanstack/react-virtual": "npm:^3.14.26"
     "@types/react": "npm:^19.3.0"
     "@types/react-dom": "npm:^19.3.0"
     "@vitejs/plugin-react": "npm:5"
